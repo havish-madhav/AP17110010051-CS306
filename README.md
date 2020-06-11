@@ -1,1 +1,1 @@
-Compiler Design Parsing Techniques Implementation and other.
+Compiler Design laboratory work
